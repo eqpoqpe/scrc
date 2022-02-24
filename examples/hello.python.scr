@@ -1,0 +1,8 @@
+@script
+from typing import NoReturn
+
+def main() -> NoReturn:
+  print("HELLO")
+  
+main()
+@script
